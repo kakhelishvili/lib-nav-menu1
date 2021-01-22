@@ -96,3 +96,7 @@
 ## დამატებითი წყარო
 
 - [stackoverflow](https://stackoverflow.com/questions/60725510/how-do-i-make-a-menu-icon-on-a-responsive-navigation-bar-animated-into-an-x-icon)
+
+## ჩაიწერეთ მთლიანი ფოლდერი ქლაუდიდან
+
+- [ფოლდერის ჩაწერა](https://mega.nz/folder/oAZgkZKb#gWnoDZxRK8C1wHr-h5xsMQ)
